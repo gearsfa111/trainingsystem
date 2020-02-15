@@ -5,6 +5,7 @@ import bg from '../../../assets/images/bg-01.jpg';
 import '../../../assets/style/customStyle.css';
 import '../../../assets/css/bootstrap.css';
 
+import '../../../assets/css/bootstrap-theme.css';
 
 const bgImage = {
     backgroundImage: "url(" + bg + ")",
