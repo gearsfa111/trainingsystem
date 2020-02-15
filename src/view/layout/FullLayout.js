@@ -14,8 +14,9 @@ class FullLayout extends React.Component {
                     <div id="content">
                         <Navbar />
 
-                        <Footer />
+
                     </div>
+                    <Footer />
                 </div>
 
             </div>
