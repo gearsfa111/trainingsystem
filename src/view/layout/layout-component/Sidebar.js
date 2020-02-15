@@ -1,8 +1,5 @@
 import React from 'react';
 
-import '../../../assets/vendor/fontawesome-free/css/all.min.css';
-import '../../../assets/css/sb-admin-2.min.css';
-
 
 class Sidebar extends React.Component {
 
